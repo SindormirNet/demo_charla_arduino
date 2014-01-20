@@ -1,0 +1,29 @@
+- Presentación Sindormir.net
+- ¿Qué es Arduino?
+    - Un microcontrolador
+    - Todo hoy en día lleva un uC
+- ¿Cual es la forma de trabajo?
+    - Placa HW
+    - Entorno de desarrollo
+    - Comunidad / librerías
+- Filosofía
+    - Software Libre
+    - Hardware Libre
+    - Documentación Libre
+    - Cultura Libre
+- ¿Qué se hacía antes de arduino? 
+    - Alto coste monetario y de aprendizaje
+    - Sólo para entornos profesionales/industriales/frikis
+- Era post-arduino
+    - Electrónica al alcance de cualquiera
+    - Grandes fabricantes subiéndose al carro con placas clónicas / compatibles
+    - Comienzo de una floreciente industria casera / DIY
+- Módulos y shields
+- Distintas placas de arduino + Clones
+
+- Demo
+    - Encender un led
+    - Encender un led por sensor de sonido
+    - Mover el servo de un lado para otro
+    - Hacer parabrisas si detecta sonido
+    - Demostraciones preparadas en el codigo

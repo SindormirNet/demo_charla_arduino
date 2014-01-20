@@ -1,0 +1,42 @@
+Charla Yún:
+  - Presentacion personal y de Sindormir.net
+  - Introducción a Arduino en general
+  - Introducción a Linux y Linino
+  - Arquitectura de la placa
+  - Características interesantes de la yún
+    - comunicación inalámbrica
+    - librerías
+    - programación remota
+    - particularidades
+    - microSD
+    - librerías específicas: Bridge
+      - process -> Permite lanzar procesos en el linux
+      - console -> Permite lanzar una terminal serie virtual por tcpip
+      - yunclient -> cliente tcp
+      - yunserver -> servidor http
+      - temboo
+      - FileIO -> ver ejemplo del datalogger
+      - client / server
+      - temboo
+      - package manager
+    - uso de pyhton
+    - almacenamiento externo
+    - REST
+      - /arduino
+      - /data
+  - Uso de dispositivos conectados al puerto USB del Linux (Webcam, por ejemplo)
+
+Prácticas:
+  - Comunicación inicial con la placa en modo AP y configuración de RED y REST
+  - Carga de código remot
+  - Acceso al Linux
+  - Puerto serie remoto
+	- A través del IDE de Arduino
+	- A través de telnet al puerto 6571
+  - Timbre remoto
+  - EMT
+  - Comunicacion REST
+      http://syvic.local/arduino/digital/13/1
+  - Ejemplo de comunicación con la nub: twitter+temboo
+  - Plotear algo con el mrtg
+
